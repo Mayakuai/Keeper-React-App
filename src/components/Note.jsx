@@ -1,5 +1,6 @@
 import React from "react";
-import DeleteIcon from "@material-ui/icons/DeleteForever";
+// import DeleteIcon from "@material-ui/icons/DeleteForever";
+import DeleteIcon from "@material-ui/icons/RemoveCircleOutline";
 
 function Note(props) {
   function handleClick() {
